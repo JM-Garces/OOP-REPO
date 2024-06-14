@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffAccountActivation", "StaffAccountActivation.csproj", "{CD083E40-B92C-4AD8-A339-D6F4CE099293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD083E40-B92C-4AD8-A339-D6F4CE099293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD083E40-B92C-4AD8-A339-D6F4CE099293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD083E40-B92C-4AD8-A339-D6F4CE099293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD083E40-B92C-4AD8-A339-D6F4CE099293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271DA5EB-DB7A-4D8B-93A2-6DEFE6A6AD87}
+	EndGlobalSection
+EndGlobal
