@@ -21,3 +21,16 @@ C:\Users\rj2004\Documents\Programs\C#\OOP-REPO-NalZero\HotelManagementSystem\Hot
 C:\Users\rj2004\Documents\Programs\C#\OOP-REPO-NalZero\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
 C:\Users\rj2004\Documents\Programs\C#\OOP-REPO-NalZero\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Verification.resources
 C:\Users\rj2004\Documents\Programs\C#\OOP-REPO-NalZero\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Account_Verification.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Account_Verification.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Verification.resources
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\rj2004\Documents\Programs\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb

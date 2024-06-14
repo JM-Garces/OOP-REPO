@@ -29,28 +29,12 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Account_Verification));
-            this.returnToStart = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button_WOC1 = new ePOSOne.btnProduct.Button_WOC();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // returnToStart
-            // 
-            this.returnToStart.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.returnToStart.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.returnToStart.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(185)))), ((int)(((byte)(115)))));
-            this.returnToStart.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.returnToStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.returnToStart.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.returnToStart.Location = new System.Drawing.Point(459, 347);
-            this.returnToStart.Name = "returnToStart";
-            this.returnToStart.Size = new System.Drawing.Size(139, 33);
-            this.returnToStart.TabIndex = 0;
-            this.returnToStart.Text = "Go to Start Up Page";
-            this.returnToStart.UseVisualStyleBackColor = false;
-            this.returnToStart.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -82,13 +66,39 @@
             // pictureBox1
             // 
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(459, 38);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(150, 148);
+            this.pictureBox1.Size = new System.Drawing.Size(139, 137);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
+            // 
+            // button_WOC1
+            // 
+            this.button_WOC1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.button_WOC1.BackColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button_WOC1.BorderColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(185)))), ((int)(((byte)(115)))));
+            this.button_WOC1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.button_WOC1.FlatAppearance.BorderSize = 0;
+            this.button_WOC1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_WOC1.ForeColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.Location = new System.Drawing.Point(431, 346);
+            this.button_WOC1.Name = "button_WOC1";
+            this.button_WOC1.OnHoverBorderColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.OnHoverButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(185)))), ((int)(((byte)(115)))));
+            this.button_WOC1.OnHoverTextColor = System.Drawing.Color.Black;
+            this.button_WOC1.Size = new System.Drawing.Size(195, 41);
+            this.button_WOC1.TabIndex = 4;
+            this.button_WOC1.Text = "Go to Start Up Page";
+            this.button_WOC1.TextColor = System.Drawing.Color.Black;
+            this.button_WOC1.UseVisualStyleBackColor = false;
+            this.button_WOC1.Click += new System.EventHandler(this.button_WOC1_Click);
             // 
             // Account_Verification
             // 
@@ -97,10 +107,10 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button_WOC1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.returnToStart);
             this.DoubleBuffered = true;
             this.Name = "Account_Verification";
             this.Text = "Account_Verification";
@@ -111,10 +121,9 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button returnToStart;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private ePOSOne.btnProduct.Button_WOC button_WOC1;
     }
 }

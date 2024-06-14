@@ -18,8 +18,9 @@ namespace HotelManagementSystem
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button_WOC1_Click(object sender, EventArgs e)
         {
+
             this.Hide();
             Form temp = new Form1();
             if (this.WindowState == FormWindowState.Maximized)
