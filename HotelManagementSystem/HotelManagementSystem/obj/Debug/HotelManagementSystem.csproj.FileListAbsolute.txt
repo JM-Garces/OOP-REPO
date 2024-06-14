@@ -8,3 +8,4 @@ D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSyste
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
