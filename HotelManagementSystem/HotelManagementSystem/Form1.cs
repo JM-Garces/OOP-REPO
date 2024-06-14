@@ -13,7 +13,7 @@ namespace HotelManagementSystem
     public partial class Form1 : Form
     {
         public Form1()
-        {
+        {   
             InitializeComponent();
         }
 
@@ -65,7 +65,19 @@ namespace HotelManagementSystem
             {
                 DialogResult dialogResult = MessageBox.Show("No empty fields allowed", "You cannot Continue", MessageBoxButtons.OK);
             }
+            else
+            {
+                this.Hide();
 
+                Form temp = new Verification();
+                if (this.WindowState == FormWindowState.Maximized)
+                {
+                    temp.WindowState = FormWindowState.Maximized;
+                }
+
+                temp.ShowDialog();
+                this.Close();
+            }
         }
     }
 }
