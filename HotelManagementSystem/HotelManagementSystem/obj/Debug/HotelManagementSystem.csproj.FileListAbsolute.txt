@@ -9,3 +9,14 @@ D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSyste
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\JM Garces\Desktop\git\OOP-REPO\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
