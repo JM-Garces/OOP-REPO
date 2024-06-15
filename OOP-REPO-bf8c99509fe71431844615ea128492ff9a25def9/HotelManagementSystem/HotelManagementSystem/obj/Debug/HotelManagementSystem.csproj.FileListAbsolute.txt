@@ -9,3 +9,23 @@ D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSyste
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
 D:\C#\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form2.resources
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelMan.F5E31FD0.Up2Date
+C:\Users\JM Garces\Desktop\git\Final\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Login.resources
