@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jm garces\\desktop\\git\\final\\oop-repo-bf8c99509fe71431844615ea128492ff9a25def9\\hotelmanagementsystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\yuliya\\source\\repos\\oop-repo\\oop-repo-bf8c99509fe71431844615ea128492ff9a25def9\\hotelmanagementsystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\hotelmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C86D211-734D-49E6-AE6A-90F81545CDE2}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,10 +32,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Form2.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Form2.cs",
               "ToolTip": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Form2.cs [Design]",
-              "RelativeToolTip": "HotelManagementSystem\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T14:25:31.102Z"
             },
@@ -43,9 +43,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.Designer.cs",
               "RelativeToolTip": "HotelManagementSystem\\Login.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +55,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Login.cs",
-              "ToolTip": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
               "RelativeToolTip": "HotelManagementSystem\\Login.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCIAAABcAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T13:55:27.361Z",
               "EditorCaption": ""
@@ -68,10 +68,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Yuliya\\source\\repos\\OOP-REPO\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Login.cs",
               "ToolTip": "C:\\Users\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs [Design]",
-              "RelativeToolTip": "HotelManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\JM Garces\\Desktop\\git\\Final\\OOP-REPO-bf8c99509fe71431844615ea128492ff9a25def9\\HotelManagementSystem\\HotelManagementSystem\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T13:51:36.673Z"
             }
