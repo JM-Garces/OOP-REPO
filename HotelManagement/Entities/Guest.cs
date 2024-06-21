@@ -17,7 +17,6 @@ namespace HotelManagement.Entities
         [Key]
         public int GuestID { get; set; }
         public int EmergencyContactID { get; set; }
-        public int? FeedBackID { get; set; }
         public string GuestFirstName { get; set; } = string.Empty;
         public string? GuestMiddleName { get; set; }
         public string GuestLastName { get; set; } = string.Empty;
@@ -30,7 +29,6 @@ namespace HotelManagement.Entities
         public string GuestStatus { get; set; } = string.Empty;
         public bool IsSeniorCitizen { get; set; } = false;
         public string? SeniorCitizenNo { get; set; }
-        [ForeignKey("FeedBackID")]
         public FeedBack? FeedBack { get; set; }
         public ObservableCollectionListSource<Booking> Bookings { get; set; }
         [ForeignKey("EmergencyContactID")]

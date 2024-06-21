@@ -17,7 +17,6 @@ namespace HotelManagement.Entities
         public string FeedBackDate { get; set; } = string.Empty;
         public string FeedBackDetails { get; set; } = string.Empty;
         public int FeedBackRating { get; set; }
-        [ForeignKey("GuestID")]
         public Guest Guest { get; set; }
     }
 }
